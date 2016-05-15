@@ -58,6 +58,8 @@
  *   Migration Name Syntax "RemoveXXXFromYYY" will REMOVE field XXX From Table YYY
  * >  php bin/cake.php bake migration RemovePriceFromProducts price
  * 
+ * Experimental
+ * 
  * STATUS of Migration
  * >  php bin/cake.php migrations status
  * 
