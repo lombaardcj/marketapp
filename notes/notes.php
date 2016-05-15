@@ -51,15 +51,20 @@
  *   ADDING an field
  * 
  *   Migration Name Syntax "AddXXXToYYY" will ADD field XXX to Table YYY
- * >  php bin/cake.php bake migration AddPriceToProducts price:decimal
+ * >  php bin/cake.php migration AddPriceToProducts price:decimal
  * 
  *   REMOVING an field
  * 
  *   Migration Name Syntax "RemoveXXXFromYYY" will REMOVE field XXX From Table YYY
- * >  php bin/cake.php bake migration RemovePriceFromProducts price
+ * >  php bin/cake.php migration RemovePriceFromProducts price
  * 
  * STATUS of Migration
  * >  php bin/cake.php migrations status
+ * 
+ * 
+ * 
+ * 
+ * 
  * 
  * Generating Skeleton code for Model / Controller / View Template
  * >      php bin/cake.php bake all <entity name>
