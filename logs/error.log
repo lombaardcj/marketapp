@@ -134,3 +134,1650 @@ Stack Trace:
 #3 {main}
 
 
+2016-05-21 13:41:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 13:42:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 13:43:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 13:48:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 13:59:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 14:31:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 14:35:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 14:49:14 Error: Fatal Error (4): syntax error, unexpected ')' in [/home/chris/Documents/Privaat/Projects2016/CakePHP/market/src/Template/Users/index.ctp, line 4]
+Request URL: /users
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-21 14:49:14 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ')'
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/home/chris/Doc...', 4)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-21 14:49:45 Error: Fatal Error (4): syntax error, unexpected ')' in [/home/chris/Documents/Privaat/Projects2016/CakePHP/market/src/Template/Users/index.ctp, line 4]
+Request URL: /users
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-21 14:49:45 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ')'
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/home/chris/Doc...', 4)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-21 14:50:10 Error: Fatal Error (4): syntax error, unexpected ')' in [/home/chris/Documents/Privaat/Projects2016/CakePHP/market/src/Template/Users/index.ctp, line 1]
+Request URL: /users
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-21 14:50:10 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ')'
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/home/chris/Doc...', 1)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-21 14:52:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 14:54:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 14:54:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 14:55:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:00:49 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:05:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:05:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:07:49 Error: Fatal Error (4): syntax error, unexpected ']' in [/home/chris/Documents/Privaat/Projects2016/CakePHP/market/src/Template/Users/index.ctp, line 25]
+Request URL: /users
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-21 15:07:50 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ']'
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/home/chris/Doc...', 25)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-21 15:08:18 Warning: Warning (512): Method Cake\View\Helper\HtmlHelper::postLink does not exist in [/home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/View/Helper.php, line 140]
+Request URL: /users
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\View\Helper::__call() - CORE/src/View/Helper.php, line 140
+Cake\View\Helper\HtmlHelper::postLink() - APP/Template/Users/index.ctp, line 27
+include - APP/Template/Users/index.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-21 15:08:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:08:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:08:56 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:09:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:09:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:10:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:13:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:16:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:16:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:16:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:22:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 15:22:22 Error: [Cake\Network\Exception\MethodNotAllowedException] Method Not Allowed
+Request URL: /users/delete/4
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/src/Controller/UsersController.php(99): Cake\Network\Request->allowMethod(Array)
+#1 [internal function]: App\Controller\UsersController->delete('4')
+#2 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#3 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#5 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-21 15:27:19 Error: Fatal Error (4): syntax error, unexpected ')', expecting ']' in [/home/chris/Documents/Privaat/Projects2016/CakePHP/market/src/Template/Users/index.ctp, line 31]
+Request URL: /users
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-21 15:27:19 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ')', expecting ']'
+Request URL: /users
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/home/chris/Doc...', 31)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-21 15:28:06 Error: Fatal Error (4): syntax error, unexpected '?>' in [/home/chris/Documents/Privaat/Projects2016/CakePHP/market/src/Template/Users/index.ctp, line 32]
+Request URL: /users
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-21 15:28:06 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '?>'
+Request URL: /users
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/home/chris/Doc...', 32)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-21 15:28:35 Error: Fatal Error (4): syntax error, unexpected '?>' in [/home/chris/Documents/Privaat/Projects2016/CakePHP/market/src/Template/Users/index.ctp, line 32]
+Request URL: /users
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-21 15:28:35 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '?>'
+Request URL: /users
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/home/chris/Doc...', 32)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-21 15:28:40 Error: Fatal Error (4): syntax error, unexpected '?>' in [/home/chris/Documents/Privaat/Projects2016/CakePHP/market/src/Template/Users/index.ctp, line 32]
+Request URL: /users
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-21 15:28:41 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '?>'
+Request URL: /users
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/home/chris/Doc...', 32)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-21 15:51:05 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/home/chris/Documents/Privaat/Projects2016/CakePHP/market/src/Template/Users/index.ctp, line 20]
+Request URL: /users
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-21 15:51:06 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /users
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/home/chris/Doc...', 20)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-21 16:21:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:23:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:23:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:23:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:33:37 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:33:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:35:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:36:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:37:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:44:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:44:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:54:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:54:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:54:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:54:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:54:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:55:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:55:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:57:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 16:57:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:00:39 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:01:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:02:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:03:39 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:03:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:05:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:05:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:06:31 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:06:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:06:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:06:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:07:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:07:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:07:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:07:30 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:07:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:07:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:08:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:08:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:08:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:08:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:08:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:31:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:31:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:31:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:31:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:32:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:32:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:35:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:35:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:35:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:35:30 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:36:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:36:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:37:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:37:54 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:38:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:38:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:42:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:42:50 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::users() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'users',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /users/users
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#2 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2016-05-21 17:52:18 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::users() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'users',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /users/users
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#2 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2016-05-21 17:52:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:52:39 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:52:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 17:53:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/view/4
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 18:07:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 18:07:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 18:08:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 18:08:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 18:08:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 18:08:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-21 18:09:14 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-22 14:21:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-2.1.4.min.min.js
+Referer URL: http://localhost:8765/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 /home/chris/Documents/Privaat/Projects2016/CakePHP/market/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

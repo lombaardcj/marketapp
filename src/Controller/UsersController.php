@@ -119,7 +119,7 @@ class UsersController extends AppController
                 return $this->redirect($this->Auth->redirectUrl());
             }
             
-            $this->Flash->error('Your username of password is invalid.');
+            $this->Flash->error('Your username or password is invalid.');
         }
         
     }
@@ -127,7 +127,7 @@ class UsersController extends AppController
     public function initialize() {
         parent::initialize();
      
-        $this->Auth->allow(['logout']);
+        $this->Auth->allow(['logout', 'add']);
     }
     
     public function logout()
